@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **0xr3ngar/0xr3ngar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/0xr3ngar/0xr3ngar/blob/main/nice.gif?raw=true" width="100%">
