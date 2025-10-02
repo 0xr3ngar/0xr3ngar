@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/0xr3ngar/0xr3ngar/blob/main/nice.gif?raw=true" width="100%">
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/0xr3ngar/0xr3ngar/blob/main/nice.gif?raw=true" width="100%" height="300px">
 
 :trollface: mad?
